@@ -1,0 +1,32 @@
+<html>
+<head>
+<title><3</title>
+<center><font color="black" size="185">PARA TI</font></center>
+</head>
+
+<body>
+<body background="C:\Users\dmont\OneDrive\Documentos\MENU\IMG\C.png">
+
+<center>
+
+<a href="file:///C:/Users/dmont/OneDrive/Documentos/PRO-T/notes%20n%20pages/1.HTML">
+<img src="C:\Users\dmont\OneDrive\Documentos\MENU\IMG\X.jpg" height="350" width="350">
+</a>
+
+</center>
+
+<style>
+
+*{
+cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani878.ani), url(https://cur.cursors-4u.net/anime/ani-9/ani878.png), auto !important;
+}
+
+img{
+padding: 45px;
+}
+
+
+</style>
+
+</body>
+</html>
